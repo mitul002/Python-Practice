@@ -1,4 +1,4 @@
-#list comprenssion
+#List Comprehension
 
 li=[i for i in range(1,11)]
 print(li*3)
